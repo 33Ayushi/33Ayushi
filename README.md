@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @33Ayushi
 - 👀 Ask me about python ,HTML.
 - 🌱 I’m currently learning python,HTML,CSS,full stack development..
-- 📫 How to reach me katiyarayushi1127@gmail.com 
+- 📫 reach me katiyarayushi1127@gmail.com 
 
 
 
