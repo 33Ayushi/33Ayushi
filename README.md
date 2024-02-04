@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @33Ayushi
-- 👀 I’m interested in ...
+- 👀 Ask me about python ,HTML.
 - 🌱 I’m currently learning python,HTML,CSS,full stack development..
 - 📫 How to reach me katiyarayushi1127@gmail.com 
 
