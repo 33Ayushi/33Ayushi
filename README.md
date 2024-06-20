@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @33Ayushi
-- 👀 Ask me about python ,HTML.
-- 🌱 I’m currently learning python,HTML,CSS,full stack development..
+- 👀 Ask me about python ,HTML,java.
+- 🌱 I’m currently learning python,java,HTML,CSS,full stack development..
 - 📫 reach me katiyarayushi1127@gmail.com 
 
 
