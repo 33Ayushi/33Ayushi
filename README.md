@@ -1,4 +1,4 @@
-![logo](https://github.com/33Ayushi/33Ayushi/blob/main/360_F_457937822_6guyVRMr4cCdCr36zPg7Er7WRaf0FbSn.jpg)
+![logo](https://github.com/33Ayushi/33Ayushi/blob/main/1000_F_408079686_gvm6DdgTDRmOuv8YRdbRGAbE4UUWv05S.jpg)
 <h1 align="center">Hi 👋, I'm Ayushi Katiyar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
