@@ -1,6 +1,6 @@
 ![logo](https://github.com/33Ayushi/33Ayushi/blob/main/1000_F_408079686_gvm6DdgTDRmOuv8YRdbRGAbE4UUWv05S.jpg)
 <h1 align="center">Hi 👋, I'm Ayushi Katiyar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer/Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
